@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Profile
 
-- name | Changjae mun   
+- name | Changjae Mun   
 - birth | 2000.09.06   
 - education | 경상국립대학교 공과대학 전자공학과 (2019.03 ~ present)   
 
