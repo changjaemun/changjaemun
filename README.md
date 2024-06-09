@@ -1,5 +1,9 @@
 # Info
-iOS를 공부하고 있습니다 :)
+iOS를 공부하고 있습니다 :)   
+새로운 도전에 거부감이 없습니다.   
+꽂힌 주제를 깊이 탐구하는 매니아틱 성향을 가졌습니다.   
+이해없이 일단 넘어가는 것을 지양하는 편입니다.   
+소통은 언제나 환영입니다🤗
 <!--
 **changjaemun/changjaemun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
