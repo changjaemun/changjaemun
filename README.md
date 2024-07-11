@@ -41,10 +41,12 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-![ito's GitHub stats](https://github-readme-stats.vercel.app/api?username=changjaemun&show_icons=true&theme=transparent)   
+![ito's GitHub stats](https://github-readme-stats.vercel.app/api?username=changjaemun&show_icons=true&theme=transparent)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changjaemun&layout=compact)   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changjaemun&layout=compact)   
+**backjoon**
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwo23)](https://solved.ac/ckdwo23)
 
 ## Activities
 - Organizer
