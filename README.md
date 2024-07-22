@@ -50,21 +50,20 @@ Here are some ideas to get you started:
 
 ## Activities
 - Organizer
-  - CharmingSwift | [Gyeongnam iOS Community](https://www.instagram.com/charming_swift/?next=%2F)
-    - 2023.04 ~ present
+  - CharmingSwift | [Gyeongnam iOS Community](https://www.instagram.com/charming_swift/?next=%2F) (2023.04 ~ present)
     - 2nd Conference: ["스유가 왔스유"](https://leeo75.notion.site/Charming-Swift-2-285708529b014b51b6d334e24b3f0b33?pvs=4) (2023.09.23)
+   
+  - iCharm(IGA X CharmingSwift) (https://i-charm.vercel.app/)
+    - 1st Event : ["iMac으로 코딩 첫 걸음"](https://festa.io/events/5316) (2024.06.29)
       
 - Speaker
-  - CharmingSwift 1st Conferencer | [SwiftUI로 내가 원하는 화면 그리기](https://www.youtube.com/watch?v=YDItZj6rSzA&t=618s)
-    - 2023.04.08
+  - CharmingSwift 1st Conference | [SwiftUI로 내가 원하는 화면 그리기](https://www.youtube.com/watch?v=YDItZj6rSzA&t=618s) (2023.04.08)
  
 - Education
-  - USG iOS Winter Camp 2023
-    - 2022.12 ~ 2023.2
+  - USG iOS Winter Camp 2023 (2022.12 ~ 2023.2)
  
 - Club
-  - UMC 6th iOS Part leader | [UMC instagram](https://www.instagram.com/uni_makeus_challenge/)
-    - 2024.03 ~ present
+  - UMC 6th iOS Part leader | [UMC instagram](https://www.instagram.com/uni_makeus_challenge/) (2024.03 ~ present)
 
 ## Project
 - Individual
