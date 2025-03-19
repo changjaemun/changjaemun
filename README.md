@@ -55,10 +55,10 @@ Here are some ideas to get you started:
   - CharmingSwift 1st Conference | [SwiftUI로 내가 원하는 화면 그리기](https://www.youtube.com/watch?v=YDItZj6rSzA&t=618s) (2023.04.08)
  
 - Education
-  - USG iOS Winter Camp 2023 (2022.12 ~ 2023.2)
+  - Apple Developer Academy @POSTECH (2025.03 ~ 2025.12)
  
 - Club
-  - UMC 6th iOS Part leader | [UMC instagram](https://www.instagram.com/uni_makeus_challenge/) (2024.03 ~ present)
+  - UMC 6th iOS Part leader | [UMC instagram](https://www.instagram.com/uni_makeus_challenge/) (2024.03 ~ 2024.09)
 
 ## Project
 - Individual
