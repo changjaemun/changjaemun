@@ -56,9 +56,10 @@ Here are some ideas to get you started:
  
 - Education
   - Apple Developer Academy @POSTECH (2025.03 ~ 2025.12)
- 
-- Club
-  - UMC 6th iOS Part leader | [UMC instagram](https://www.instagram.com/uni_makeus_challenge/) (2024.03 ~ 2024.09)
+
+<!--
+**- Club
+  **- UMC 6th iOS Part leader | [UMC instagram](https://www.instagram.com/uni_makeus_challenge/) (2024.03 ~ 2024.09)
 
 ## Project
 - Individual
